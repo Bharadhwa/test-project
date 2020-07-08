@@ -14,6 +14,7 @@ public class swap
         a=a*b;
         b=a/b;
         a=a/b;
+        
         System.out.println("after swapping the values are"+a+" "+b);
     }
 }

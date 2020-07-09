@@ -10,7 +10,7 @@ public class revString {
             rev=rev+str.charAt(i);
         }
         System.out.println("Reverse of the string is :"+ rev);
-        
+
     }
 }
 
